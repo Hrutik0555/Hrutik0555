@@ -28,26 +28,26 @@
 
 ### 📌 Featured Projects
 
-#### 🤖 [Research Assistant v2](https://github.com/Hrutik0555/Autonomous-Multi-Agent-AI-Research-Engine)
+#### 🤖 [Autonomous-Multi-Agent-AI-Research-Engine](https://github.com/Hrutik0555/Autonomous-Multi-Agent-AI-Research-Engine)
 - **Tech Stack:** Python, FastAPI, Celery, PostgreSQL, Docker, Kubernetes, PyTorch, Prometheus[cite: 3]
 - Designed a multi-agent autonomous research system featuring specialized LLM agents (Planner, Retriever, Hypothesis Generator, Experiment Designer, Writer, Critic)[cite: 3].
 - Implemented automated ingestion, entity extraction, knowledge graph building, timeline generation, and citation validation pipelines[cite: 3].
 - Integrated flexible LLM provider routing (OpenAI, Anthropic, Gemini, Ollama) with intelligent multi-provider fallback and retry logic[cite: 3].
 - Built asynchronous job handling with Celery workers, vector store integration, continuous monitoring (Prometheus telemetry), and deployment manifests for Kubernetes & Docker Compose[cite: 3].
 
-#### 🧠 [Narrative Consistency Detection with a Custom Belief-State Model](#)
+#### 🧠 [Narrative Consistency Detection with a Custom Belief-State Model](https://github.com/Hrutik0555/BDH-Narrative-Consistency-Classifier)
 - **Tech Stack:** PyTorch, Sentence-Transformers, Python[cite: 1]
 - Designed a recurrent belief-updating architecture using frozen sentence-transformer embeddings to detect narrative contradictions between captions and content[cite: 1].
 - Implemented a two-phase training pipeline (unsupervised pretraining for dynamics minimization + supervised fine-tuning with auxiliary loss)[cite: 1].
 - Applied gradient accumulation, learning rate scheduling, and threshold calibration for interpretable, rationale-based predictions[cite: 1].
 
-#### 🛍️ [Multimodal Product Price Prediction System](#)
+#### 🛍️ [Multimodal Product Price Prediction System](https://github.com/Hrutik0555/multimodal-product-price-predictor)
 - **Tech Stack:** PyTorch, Scikit-Learn, OpenCV, ResNet, TF-IDF[cite: 1]
 - Built an end-to-end multimodal ML pipeline integrating TF-IDF text embeddings, CNN (ResNet) image embeddings, and structured metadata[cite: 1].
 - Trained ensemble regression models (Gradient Boosting) achieving low MAE, RMSE, and SMAPE[cite: 1].
 - Performed controlled ablation experiments to quantify feature contributions across modalities[cite: 1].
 
-#### 🖐️ [Computer Vision & Gesture Recognition Projects](#)
+#### 🖐️ [Computer Vision & Gesture Recognition Projects](https://github.com/Hrutik0555/PRODIGY_ML_04)
 - **Tech Stack:** TensorFlow, Keras, OpenCV, Scikit-learn[cite: 1]
 - Developed Hand Gesture Recognition and Food Image Recognition models using CNNs during ML internship[cite: 1].
 - Implemented custom data preprocessing, data augmentation, and performance evaluation pipelines[cite: 1].
